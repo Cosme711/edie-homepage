@@ -5,7 +5,11 @@ module.exports = {
   },
   purge: [],
   theme: {
-    extend: {},
+    fontFamily: {
+      'heebo': ['Heebo'],
+      'montserrat': ['Montserrat'],
+      'poppins': ['Poppins']
+    }
   },
   variants: {},
   plugins: [],
