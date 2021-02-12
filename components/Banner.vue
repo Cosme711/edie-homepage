@@ -9,5 +9,12 @@
           <h3 class="pr-16 text-2xl text-darkgray font-medium">Story, emotion and purpose</h3>
           <p class="mt-4 text-whitegray text-sm">We help transform your ideas into real world applications that will outperform your toughest competition and help you achieve your strategic goals in short period of time.</p>
       </div>
+      <div class="px-6 mt-10">
+        <p class="text-gray">Want us to contact you?</p>
+        <div class="bg-input flex rounded-xl">
+          <input class="py-4 pl-4 pr-1 w-full bg-input outline-none rounded-xl" type="text" placeholder="Email"/>
+          <a href="" class="my-2 mr-2 px-4 flex items-center text-white bg-blue rounded-xl">Join</a>
+        </div>
+      </div>
   </section>
 </template>

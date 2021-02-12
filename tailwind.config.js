@@ -11,16 +11,14 @@ module.exports = {
       'poppins': ['Poppins']
     },
     colors: {
+      white: '#FFFFFF',
       blue: '#2D9CDB',
       green: '#27AE60',
       red: '#EB5757',
-      darkgray: '#333333'
-    },
-    textColor: {
-      'gray': '#828282',
-      'darkgray': '#333333',
-      'whitegray': '#4F4F4F',
-      'blue': '#2D9CDB'
+      gray: '#828282',
+      darkgray: '#333333',
+      whitegray: '#4F4F4F',
+      input: '#F2F2F2'
     }
   },
   variants: {},
