@@ -12,5 +12,13 @@
                 <img class="rounded-3xl" src="../assets/images/profiles/person2.png" alt="">
             </div>
         </div>
-    </section>
+        <p class="mt-20 text-2xl text-darkgray font-medium">“Fast and outstanding resutls. Edie understands their customer’s needs. They have a young and talented team.”</p>
+        <div class="mt-6 mb-16 flex items-center">
+            <img class="w-1/4 rounded-xl" src="../assets/images/profiles/person4.png" alt="">
+            <div class="ml-8">
+                <p class="pb-2 text-xl text-darkgray font-medium">Carlos Tran</p>
+                <p class="pt-2 font-medium text-whitegray">The Decorate Gatsby</p>
+            </div>
+        </div>
+        </section>
 </template>

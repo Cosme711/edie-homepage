@@ -1,12 +1,13 @@
 <template>
-  <div class="px-3 font-poppins">
-    <NavBar />
-    <main>
+  <div class="font-poppins">
+    <NavBar class="px-4"/>
+    <main class="px-3">
        <Banner />
        <Services />
        <Designs />
        <Teams />
     </main>
+    <Footer />
   </div>
 </template>
 
@@ -16,9 +17,10 @@ import Banner from '@/components/Banner.vue'
 import Services from '@/components/Services.vue'
 import Designs from '@/components/Designs.vue'
 import Teams from '@/components/Teams.vue'
+import Footer from '@/components/Footer.vue'
 
 export default {
-  components: { NavBar, Banner, Services, Designs, Teams }
+  components: { NavBar, Banner, Services, Designs, Teams, Footer }
 
 }
 </script>
