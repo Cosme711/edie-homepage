@@ -1,6 +1,6 @@
 <template>
   <div class="font-poppins">
-    <NavBar class="px-4"/>
+    <NavBar />
     <main class="px-3">
        <Banner />
        <Services />
