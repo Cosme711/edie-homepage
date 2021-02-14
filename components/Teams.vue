@@ -16,9 +16,11 @@
                 </div>
             </div>
         </div>
-        <p class="mt-20 text-2xl text-darkgray font-medium">“Fast and outstanding resutls. Edie understands their customer’s needs. They have a young and talented team.”</p>
-        <div class="mt-6 mb-16 flex items-center">
-            <img class="w-1/4 rounded-xl" src="../assets/images/profiles/person4.png" alt="">
+        <div class="lg:w-10/12 xl:w-8/12 lg:m-auto xl:pr-40">
+            <p class="mt-20 text-xl mobile:text-2xl text-darkgray font-medium">“Fast and outstanding resutls. Edie understands their customer’s needs. They have a young and talented team.”</p>
+        </div>
+        <div class="lg:w-10/12 xl:w-8/12 lg:m-auto pt-10 pb-24 flex items-center">
+            <img class="w-16 rounded-xl" src="../assets/images/profiles/person4.png" alt="">
             <div class="ml-8">
                 <p class="pb-2 text-xl text-darkgray font-medium">Carlos Tran</p>
                 <p class="pt-2 font-medium text-whitegray">The Decorate Gatsby</p>
