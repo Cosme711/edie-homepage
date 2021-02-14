@@ -1,5 +1,6 @@
 <template>
   <footer class="px-8 text-white bg-footer">
+      <div class="md:flex md:justify-around">
         <nav class="pt-12">
             <ul>
                 <li class="cursor-pointer">Home</li>
@@ -51,6 +52,7 @@
                 <a href="" class="my-2 mr-2 px-4 flex items-center text-white bg-blue rounded-xl">Join</a>
             </div>
         </div>
+      </div>
         <div class="mt-24 pb-10 text-gray-700 flex flex-col sm:flex-row justify-center text-center text-textfooter">
             <div><a href="https://github.com/Cosme711">Cosme Gressier</a></div>
             <div class="mx-2"><p>| <a href="https://devchallenges.io/">DevChallenges</a> |</p></div>
