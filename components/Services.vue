@@ -1,6 +1,6 @@
 <template>
-    <section class="mt-16 px-4 xl:w-8/12 xl:m-auto">
-        <h3 class="font-medium mobile:text-lg sm:text-xl lg:text-2xl">We offer high demand services</h3>
+    <section class="mt-24 px-4 xl:mt-40 xl:w-8/12 xl:m-auto">
+        <h3 class="text-darkgray font-medium mobile:text-lg sm:text-xl lg:text-2xl">We offer high demand services</h3>
         <div class="lg:grid lg:grid-cols-3 lg:gap-5 xl:gap-16">
             <div class="mt-16 lg:mt-24 max-w-lg">
                 <span class="material-icons p-4 text-3xl bg-blue text-white rounded-xl">create</span>
