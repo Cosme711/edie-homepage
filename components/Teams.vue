@@ -1,6 +1,6 @@
 <template>
     <section class="mt-16">
-        <div class="lg:flex lg:items-center lg:w-10/12 xl:w-8/12 lg:m-auto">
+        <div class="md:flex md:items-center md:w-10/12 xl:w-8/12 md:m-auto">
             <div>
                 <p class="font-medium text-red">Meet the team</p>
                 <h3 class="mt-4 pr-20 font-medium text-darkgray text-3xl">We are chilled and a laidback team</h3>
@@ -19,7 +19,7 @@
         <div class="lg:w-10/12 xl:w-8/12 lg:m-auto xl:pr-40">
             <p class="mt-20 text-xl mobile:text-2xl text-darkgray font-medium">“Fast and outstanding resutls. Edie understands their customer’s needs. They have a young and talented team.”</p>
         </div>
-        <div class="lg:w-10/12 xl:w-8/12 lg:m-auto pt-10 pb-24 flex items-center">
+        <div class="md:w-10/12 xl:w-8/12 md:m-auto pt-10 pb-24 flex items-center">
             <img class="w-16 rounded-xl" src="../assets/images/profiles/person4.png" alt="">
             <div class="ml-8">
                 <p class="pb-2 text-xl text-darkgray font-medium">Carlos Tran</p>
