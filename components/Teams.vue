@@ -16,7 +16,7 @@
                 </div>
             </div>
         </div>
-        <div class="lg:w-10/12 xl:w-8/12 lg:m-auto xl:pr-40">
+        <div class="md:w-10/12 xl:w-8/12 md:m-auto xl:pr-40">
             <p class="mt-20 text-xl mobile:text-2xl text-darkgray font-medium">“Fast and outstanding resutls. Edie understands their customer’s needs. They have a young and talented team.”</p>
         </div>
         <div class="md:w-10/12 xl:w-8/12 md:m-auto pt-10 pb-24 flex items-center">
